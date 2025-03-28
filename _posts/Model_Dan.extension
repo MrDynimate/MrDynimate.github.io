@@ -1,0 +1,57 @@
+---
+title: Dan's Markedown Model
+date: 2025-03-28 17:32:55
+categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+tags: [TEST]     # TAG names should always be lowercase
+
+<author_id>:
+  name: LI Yedan
+  url: https://github.com/MrDynimate
+
+description: Short summary of the post.
+
+image:
+  path: /assets/img/posts_img/wallhaven-5g1yz8_1200x630.png
+  alt: image alternative text
+---
+
+#Title of the Artcial [ONE]
+
+summary here. Write someting to descripte the main reason that writing down this Artical.
+
+## 1 The second title 
+
+Dive deeper into the topic with some engaging content.
+
+### 1.1 Introduction to the Concept
+
+Start by explaining the basics of the concept. For example:
+
+- **What is it?**  
+  This section introduces the idea in simple terms.
+- **Why does it matter?**  
+  Highlight its importance and relevance.
+
+### 1.2 Practical Applications
+
+Discuss how this concept can be applied in real-world scenarios:
+
+1. **Example 1:**  
+   Describe a scenario where this concept solves a problem.
+2. **Example 2:**  
+   Share another use case, perhaps with a fun twist.
+
+## 2 Exploring Further
+
+Expand on the topic with additional insights:
+
+- **Historical Context:**  
+  Share a brief history or origin story.
+- **Future Trends:**  
+  Predict how this concept might evolve.
+
+## 3 Conclusion
+
+Summarize the key points and leave the reader with a thought-provoking question:
+
+> "How can we leverage this concept to create a better future?"
