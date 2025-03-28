@@ -3,16 +3,6 @@ title: Dan's Markedown Model
 date: 2025-03-28 17:32:55
 categories: [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [TEST]     # TAG names should always be lowercase
-
-<author_id>:
-  name: LI Yedan
-  url: https://github.com/MrDynimate
-
-description: Short summary of the post.
-
-image:
-  path: /assets/img/posts_img/wallhaven-5g1yz8_1200x630.png
-  alt: image alternative text
 ---
 
 #Title of the Artcial [ONE]
